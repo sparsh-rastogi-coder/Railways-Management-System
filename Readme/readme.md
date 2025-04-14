@@ -11,6 +11,12 @@ This project is a comprehensive **SQL-based database schema** for an **Indian Ra
 The project includes the creation of a MySQL database named `railway_reservation` along with well-structured tables and relationships between them.
 
 ---
+---
+## 🗂️ ER Diagram:
+
+![Er_diagram.png](attachment:Er_diagram.png)
+
+---
 
 ## 📑 Table Structure
 
