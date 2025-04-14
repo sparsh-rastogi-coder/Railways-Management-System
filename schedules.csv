@@ -1,0 +1,6 @@
+"schedule_id","train_id","status","delay_time","remarks"
+"512","12301","On-time","0","Running as per schedule"
+"513","12951","Delayed","45","Signal failure at previous station"
+"514","12269","Cancelled","0","Operational issues"
+"515","22691","Rescheduled","120","Departure shifted due to maintenance"
+"516","20901","On-time","0","No delays reported"

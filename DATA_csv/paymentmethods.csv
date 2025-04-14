@@ -1,0 +1,8 @@
+"payment_method_id","method_name","description","is_online"
+"CC","Credit Card","Payment via credit card","1"
+"CH","Cash","Payment via cash at counter","0"
+"DC","Debit Card","Payment via debit card","1"
+"DD","Demand Draft","Payment via bank draft at counter","0"
+"NB","Net Banking","Payment via Internet banking","1"
+"UPI","UPI","Payment via UPI apps like Google Pay, PhonePe, etc.","1"
+"WL","Mobile Wallet","Payment via mobile wallets like Paytm, Amazon Pay, etc.","1"

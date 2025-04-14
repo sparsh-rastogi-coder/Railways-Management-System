@@ -1,0 +1,5 @@
+SELECT * FROM stations
+INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/stations.csv'
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"' 
+LINES TERMINATED BY '\n';
