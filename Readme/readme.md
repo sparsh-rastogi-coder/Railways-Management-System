@@ -383,11 +383,11 @@ This documentation provides an overview of the key database components. For deta
 
 ## 👨‍💻 Developed By
 
-**Sparsh Rastogi**
-**Abhay Sahni**
-**Ansh Prem**
-**Saksham Srivastava**
-CS2202 Mini Project – Indian Railways Ticket Reservation System  
+-- **Sparsh Rastogi  2301ai56**
+-- **Abhay Pratap Singh  2301ai48**
+-- **Ansh Prem  2302cs01**
+-- **Saksham Srivastava  2301ec56**
+ CS2202 Mini Project – Indian Railways Ticket Reservation System  
 IIT Patna
 
 ---
